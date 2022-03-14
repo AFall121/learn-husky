@@ -1,12 +1,12 @@
-function sum(a, b) {
-  return a + b
-}
+// function sum(a, b) {
+//   return a + b;
+// }
 
 let person = {
-  name: 'zhangsan',
+  name: "zhangsan",
   age: 12,
-}
+};
 
-console.log(person)
+// console.log(person);
 
-console.log('suibian');
+// console.log("suibian");
